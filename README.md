@@ -21,7 +21,7 @@
 **5. MI462_Applied_AI_Platforms_&_Projects**
   - Data_Ethics: Personal AI/Data Ethics Statement
   - ML_&-AI: Machine Learning/AI Project Notebook - Microsoft SageMaker Studio Lab
-  - Professional_Development: Professional Online Presence: LinkedIn & Resume
+  - Professional_Development: Professional Online Presence: LinkedIn, Resume, & Certifications
   - RPA_Project: Robotic Processing Automation (RPA) Project - BluePrism
   - SQL_Practice: Database Management Tasks Using SQL – Databricks
 
