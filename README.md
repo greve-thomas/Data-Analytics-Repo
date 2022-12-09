@@ -1,6 +1,6 @@
 **DATA ANALYTICS PROJECT REPOSITORY - TABLE OF CONTENTS:**
 (Sorted by class alphabetically)
-1. CS260_Databases_&_Visualizations
+<u>1. CS260_Databases_&_Visualizations<u/>
   -  Database Analysis Project Using Python Data Frames – Jupyter Notebook and Google Colab
 
 
