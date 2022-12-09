@@ -4,7 +4,8 @@ A major aspect of this course was establishing a professional online presence as
 
 LinkedIn profile: <https://www.linkedin.com/in/thomas-greve01/>
 
-Also included in this section are all my certificates and notes from various training programs:
+
+**Also included in this section are all my certificates and notes from various training programs:**
   - Excel GMetrix Data Analyst Assosciate Certification
   - Tableau Certifications
   - BluePrism Foundation Training
