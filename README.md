@@ -1,10 +1,18 @@
-**MI-462 Repo TABLE OF CONTENTS:**
-1. Data analysis project – Excel & Minitab (MG220)
-2. Data preparation and visualization project – Tableau Prep and Tableau (MG226)
-3. Database management tasks using SQL –Jupyter notebook (CS260, MI462)
-4. Database analysis project using Python data frames – Jupyter notebook (CS260)
-5. Data mining project – slide deck (MI353)
-6. Robotic processing automation (RPA) project (MI462)	
-7. Machine Learning/AI project notebook (MI462)
-8. Professional online presence: LinkedIn and GitHub (MI462)
-9. Personal AI/Data ethics statement (MI462)
+**DATA ANALYTICS PROJECT REPOSITORY - TABLE OF CONTENTS:**
+(Sorted by class alphabetically)
+1. CS260_Databases_&_Visualizations
+  -  Database Analysis Project Using Python Data Frames – Jupyter Notebook and Google Colab
+2. MG212_Data_Analytics
+  - Data Analysis Project – Excel & Minitab
+3. MG226_Intro_to_DA_&_AI 
+  - Data Preparation and Visualization Project – Tableau Prep and Tableau
+4. MI353_Statistical_Analysis_&_Predictive_Modeling
+  - Data Mining Project – SAS Enterprise Miner
+5. MI462_Applied_AI_Platforms_&_Projects
+  - Data_Ethics: Personal AI/Data Ethics Statement
+  - ML_&-AI: Machine Learning/AI Project Notebook - Microsoft SageMaker Studio Lab
+  - Professional_Development: Professional Online Presence: LinkedIn & Resume
+  - RPA_Project:
+  - SQL_Practice: Database Management Tasks Using SQL – Databricks
+6. MK410_Market_Research_&_Analytics
+  - Marketing Data Analytics Project for Non-Profits – SPSS
